@@ -54,8 +54,17 @@ If you don't need 3D Graphics, Sound nor Physics, you just have to include the [
 - [WAV, JOgg, JOrbis and MP3 codec plug-in](http://www.paulscode.com/forum/index.php?topic=496.0)
 - [dyn4j](http://code.google.com/p/dyn4j/) (Physics Library)
 
-##How to Start
+## How to Start
 You can follow the [HelloWorld](https://github.com/yuripourre/etyllica/wiki/Hello-World) example.
+
+## Maven Integration
+```
+<dependency>
+  <groupId>br.com.etyllica</groupId>
+  <artifactId>etyllica</artifactId>
+  <version>4.5</version>
+</dependency>
+```
 
 ##License
 - [LGPL](http://www.gnu.org/copyleft/lesser.html)
